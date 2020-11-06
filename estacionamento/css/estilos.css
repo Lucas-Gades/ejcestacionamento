@@ -1,0 +1,178 @@
+#titulo {
+    background-color: rgba(0, 0, 156, 0.5);
+    color: yellow;
+    margin-top: 10%;
+    margin-right: 5%;
+    margin-left: 2%;
+
+}
+
+
+
+
+
+input {
+    width: 100%;
+}
+
+
+#descricao {
+    height: 100px;
+}
+
+#titulo2 {
+    background-color: rgba(0, 0, 156, 0.5);
+    color: yellow;
+    margin-top: 10%;
+    margin-left: 8%;
+}
+
+#formulario{
+    background-color: rgb(14, 15, 77);
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: black solid 5px;
+    
+}
+#cadastrar{
+    margin-top: 25px;
+    color: white;
+
+}
+
+#cabecalhoLista{
+
+    background-color: rgb(14, 15, 77);
+    color: white;
+    margin-top: 25px;
+    padding: 20px;
+    
+    
+    
+    
+
+}
+#cadastrobody{
+    background-color: rgb(121, 119, 119)!important;
+
+    
+    
+    
+}
+
+#bodylistagem{
+    background-color: rgb(121, 119, 119)!important;
+  
+    
+    
+}
+
+
+#bodyindex{
+    background-color: rgb(121, 119, 119)!important;
+
+    
+    
+    
+}
+
+
+#fim {
+    border: 2px solid black;
+    background-color: yellow;
+  
+}
+
+
+#topformulario{
+    background-color: yellow;
+    color: black;
+    margin-top: 25px;
+    border: black solid 5px;
+  
+}
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+
+.container{
+margin-top: 10%;    
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 450px;
+height: 480px;
+background-color: rgb(14, 15, 77)!important;
+
+}
+
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
